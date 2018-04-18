@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Inventory_App</string>
+    <string name="paying">Price !</string>
+    <string name="product_name">enter your Product</string>
+    <string name="amount_off_items"> quantity !</string>
+    <string name="btn_sell_product">Sell Product</string>
+    <string name="increase">increase</string>
+    <string name="edit_activity_price_title">Price:</string>
+    <string name="Order_product">Order Product</string>
+    <string name="mail"> Mail</string>
+    <string name="selecting">Select Image</string>
+    <string name="edit_activity_name_title">Name is :</string>
+    <string name="default_product_price">115</string>
+    <string name="product_price_title">you will pay for it :</string>
+    <string name="deleteIt">Delete</string>
+    <string name="add_product_btn">Add Product</string>
+    <string name="adding_product">Add Product</string>
+</resources>
+
